@@ -3,11 +3,11 @@ This repository contains code referenced by the UML Intro homework assignment.
 
 Each package is referenced by a question on the homework. These packages can be viewed this GitHub page:
 
-* [command](tree/master/src/command)
-* [geese](tree/master/src/geese)
-* [observer](tree/master/src/observer)
-* [strategy](tree/master/src/strategy)
-* [visitor](tree/master/src/visitor) (_extra credit_)
+* [command](src/command)
+* [geese](src/geese)
+* [observer](src/observer)
+* [strategy](src/strategy)
+* [visitor](src/visitor) (_extra credit_)
 
 
 ## Using Eclipse
